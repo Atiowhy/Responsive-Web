@@ -1,0 +1,15 @@
+.container-fluid{
+    height: 100vh;
+    width: 100;
+}
+
+.text-regis{
+    font-weight: 900;
+    font-size: 15px;
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.form-label{
+    color: rgba(105, 111, 121, 1);
+}
